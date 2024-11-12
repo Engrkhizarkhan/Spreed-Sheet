@@ -8,7 +8,23 @@ This project implements a dynamic spreadsheet application that supports mathemat
 - Support for cell references and ranges (e.g., A1, B2:C5).
 - Real-time formula evaluation and updates when cell values change.
 - Responsive UI grid to simulate a spreadsheet environment.
-
+  
+## Formulas
+   - sum
+   - average
+   - median
+   - even
+   - someeven
+   - everyeven
+   - firsttwo
+   - lasttwo
+   - has2
+   - increment
+   - random
+   - range
+   - nodupes
+   - To apply formula use the formate of =sum(A1:B54).
+   
 ## Installation
 1. Clone this repository.
 2. Open the `index.html` file in a web browser to start the application.
